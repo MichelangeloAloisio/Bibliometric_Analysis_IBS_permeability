@@ -1,4 +1,4 @@
-## A)  In this project data and pipelines for the following paper are described: 'Exploring the Impact of Intestinal Permeability in Irritable Bowel Syndrome: bibliometric and visual analysis'.
+## A)  In this project data and pipelines for the following paper are described: '	Mapping Research Trends on Intestinal Permeability in Irritable Bowel Syndrome with a Focus on Nutrition: A Bibliometric Analysis'.
 ## The scopus dataset were saved in files: 
 ## 1) 00_IBS_permeability_scopus.csv; 
 ## 2) 00_IBS_permeability_scopus.ris.
