@@ -7,8 +7,10 @@ TITLE-ABS-KEY ( ( "intestin* barrier*" OR "gut barrier*" OR "intestin* permeabil
 
 ## B) The file 01_DEDUPLICATED_IBS_permeability_scopus.ris, contains unique records downloaded from scopus database ; 
 ## C) The file 02_ASReview_RELEVANT_IBS_permeability.ris, contains only RELEVANT records obtained by the Active machine learning ASReview. In this file, the irrilevant or not_seen records are omitted. 
+## D) The file 05_FILTERED_100_dietary_scopus_papers.csv, contains only records filtered from 02_ASReview_RELEVANT_IBS_permeability.csv 
 ## Note, for not_seen records are intented those records that are not relevant for ASReview, specifically that are not evaluated manually using active machine learning approach. 
-## D) convert_ris2csv4bibliometric.py contains a python code to filter scopus csv dataset for relevant records. The  convert_ris2csv4bibliometric.py output file is compatible with R bibliometix package.
-## E) the file: 02_ASReview_RELEVANT_IBS_permeability.csv is the output of the filter_scopus_CSV4Relevant_records.py pipeline. 
+## E) convert_ris2csv4bibliometric.py contains a python code to filter scopus csv dataset for relevant records. The  convert_ris2csv4bibliometric.py output file is compatible with R bibliometix package.
+## F) the file: 02_ASReview_RELEVANT_IBS_permeability.csv is the output of the filter_scopus_CSV4Relevant_records.py pipeline. 
+## G) the file: 
 
 
